@@ -3,7 +3,7 @@
 
 Suraksha AI is an AI-powered insurance platform designed specifically for Indian households. It reimagines insurance discovery, decision-making, and management through an AI-first approach, making insurance more accessible, understandable, and valuable to consumers.
 
-![Suraksha AI](https://i.imgur.com/nmZfrVN.png)
+
 
 ## Project Overview
 
@@ -101,14 +101,5 @@ npm install
 npm run dev
 ```
 
-## Contributing
 
-We welcome contributions from the community! Please read our contributing guidelines before submitting pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Built with ❤️ for improving insurance accessibility in India.
